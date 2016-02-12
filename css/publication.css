@@ -1,0 +1,37 @@
+.public {
+	border: 2px solid #ccc;
+	border-radius: 10px;
+	padding:10px;
+	margin: 5px;
+}
+
+.public p{
+	font-size: 16px;
+	padding: 0px;
+	margin: 0;
+
+}
+.public a{
+	display: block;
+	text-decoration: none;
+	padding: 10px;
+	margin: 20px 0;
+	color:#004;
+	font-size: 18px;
+	font-weight: 600;
+	text-align: center;
+	padding: 10px;
+	border-bottom: 2px solid #99c;
+}
+.public a:hover{
+	text-decoration: none;
+	color:#00f;
+}
+.public img{
+	float: left;
+	padding:10px;	
+}
+.author {
+	font-size: 16px;
+	font-weight: bold;	
+}

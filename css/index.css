@@ -1,0 +1,7 @@
+.content .leftimage{
+	float: left;
+	padding: 30px;
+}
+.leftimage img{
+	border-radius:30px;
+}

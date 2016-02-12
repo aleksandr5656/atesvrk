@@ -1,0 +1,23 @@
+p{
+	padding: 0;
+	margin: 0;
+}
+.person{
+	padding: 10px;
+	border: 2px solid #ccc;
+	border-radius: 10px;
+	margin:20px 0;
+}
+.biography{
+	padding: 10px;
+}
+.photo{
+	float:left;
+	padding: 10px;
+}
+.photo img{
+	border-radius: 10px;
+}
+.title{
+	font-weight: bold;
+}

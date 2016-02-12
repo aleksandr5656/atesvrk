@@ -1,0 +1,12 @@
+.contacts{
+	border-radius: 10px;
+	border: 2px solid #aac;
+	margin: 20px;
+	
+}
+.contacts p{
+	text-align: center;
+}
+span.title{
+	font-weight: bold;
+}

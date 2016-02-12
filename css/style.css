@@ -1,0 +1,72 @@
+body{
+	background:#e1e1e1;
+	margin:auto;
+	font-family: Georgia, Verdana, Arial,sans-serif;
+	font-size:16px;
+	font-style:normal;
+	margin:0 auto;
+}
+
+ p{
+	text-indent: 30px;
+}
+
+h1{
+	font-family: Arial,sans-serif;
+	font-size:24px;
+	color:#224;
+	text-align:center;
+	padding:10px 10px 10px 30px;
+	box-shadow: 0 6px 6px -6px black;
+}
+
+h2{
+	font-family: Arial,sans-serif;
+	font-size:18px;
+	color:#224;	
+	text-align:center;
+	box-shadow: 0 4px 4px -4px black;
+}
+
+h3{
+	font-family: Arial,sans-serif;
+	font-size:16px;
+	color:#226;	
+	text-align:center;
+	box-shadow: 0 2px 2px -2px black;
+}
+
+h4{
+	font-family: Arial,sans-serif;
+	font-size:16px;
+	color:#226;	
+	text-align:center;
+
+}
+
+.main{	
+	width:1020px;
+	margin:0 auto;
+	background:#fff;
+	box-shadow:0px -5px 10px rgba(30,30,60,0.6);
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-radius: 2px;
+}
+	
+
+.content{
+	width: 730px;
+	padding: 10px;
+	margin:auto;
+	margin-bottom: 20px;
+	font-family: 'Times New Roman',Arial,sans-serif;
+	font-size:18px;
+	line-height: 25px;
+}
+
+
+/*класс, очищающий от float */
+.clr{
+	clear:both;
+}
